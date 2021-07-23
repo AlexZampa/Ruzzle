@@ -8,6 +8,7 @@ public class Pos {
 	private int row;
 	private int col;
 
+	
 	public Pos(int row, int col) {
 		super();
 		this.row = row;
